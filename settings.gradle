@@ -1,0 +1,7 @@
+rootProject.name='My Application'
+include ':app', ':1to50d'
+include ':mymemo'
+include ':sqlitetest'
+include ':eventtest'
+include ':mycalc'
+include ':edumng'
